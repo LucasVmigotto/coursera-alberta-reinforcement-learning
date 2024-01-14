@@ -1,6 +1,6 @@
-# template-datascience
+# University of Alberta - Reinforcement Learning
 
-Template for Data Science, Machine Learning and Deep Learning projects
+Project to store labs and graded assigments
 
 ## Summary
 
